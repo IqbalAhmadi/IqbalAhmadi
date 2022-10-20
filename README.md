@@ -1,7 +1,7 @@
-[![MasterHead](https://c.tenor.com/YNqsJbmb_yMAAAAd/coding.gif)](https://iqbalahmadi.io)
+<!-- [![MasterHead](https://c.tenor.com/YNqsJbmb_yMAAAAd/coding.gif)](https://iqbalahmadi.io) -->
 <h1 align="center">Hi 👋, I'm Iqbal Ahmadi</h1>
 <h3 align="center">A passionate web developer from California</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/media/59d7f9492ef4698f006804c56b558e30.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/200.webp?cid=ecf05e47ta15h52qt5rqlto2em6vcn1divpsuhjda7qzj1w5&rid=200.webp&ct=g">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iqbalahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalahmadi" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://iqbalahmadi.github.io/mini-project-1/](https://iqbalahmadi.github.io/mini-project-1/)
 
-- 💬 Ask me about **HTML , CSS , JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me: **iqb.ahmadi@gmail.com**
 
-- ⚡ Fun fact: **The first person convicted of speeding was going eight mph.**
+- ⚡ Fun fact: **The first person convicted of speeding was going 8mph.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
