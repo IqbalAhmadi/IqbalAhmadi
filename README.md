@@ -1,9 +1,11 @@
 <!-- [![MasterHead](https://c.tenor.com/YNqsJbmb_yMAAAAd/coding.gif)](https://iqbalahmadi.io) -->
 <h1 align="center">Hi 👋, I'm Iqbal Ahmadi</h1>
 <h3 align="center">A passionate web developer from California</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/200.webp?cid=ecf05e47ta15h52qt5rqlto2em6vcn1divpsuhjda7qzj1w5&rid=200.webp&ct=g">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=iqbalahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalahmadi" /> </p>
+
+![snake gif](https://github.com/iqbalahmadi/iqbalahmadi/blob/output/github-contribution-grid-snake.gif)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iqbalahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalahmadi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmadi_ca" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadi_ca?logo=twitter&style=for-the-badge" alt="ahmadi_ca" /></a> </p>
 
