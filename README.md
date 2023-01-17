@@ -24,7 +24,7 @@
 <a href="https://codepen.io/iqbalahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iqbalahmadi" height="30" width="40" /></a>
 <a href="https://twitter.com/ahmadi_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadi_ca" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iqbal-ahmadi-36b0a6111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iqbal-ahmadi-36b0a6111/" height="30" width="40" /></a>
-<a href="https://instagram.com/iqbal_nasimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbal_nasimi" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
