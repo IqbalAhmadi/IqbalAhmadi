@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working on my **Portfolio**
 
-- 👨‍💻 All of my projects are available at [https://iqbalahmadi.github.io/mini-project-1/](https://iqbalahmadi.github.io/mini-project-1/)
+- 👨‍💻 All of my projects are available at [Click Me ʘ](https://iqbalahmadi.github.io/iqbal-advanced-portfolio)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
