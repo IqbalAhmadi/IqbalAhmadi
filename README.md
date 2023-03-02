@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmadi_ca" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadi_ca?logo=twitter&style=for-the-badge" alt="ahmadi_ca" /></a> </p>
 
-- 🌱 I’m currently working on my **Portfolio**
+- 🌱 I’m always working on **something**. Feel free to contribute. I enjoy **teamwork**. 
 
 - 👨‍💻 All of my projects are available at [Click Me ʘ](https://iqbalahmadi.github.io/iqbal-advanced-portfolio)
 
