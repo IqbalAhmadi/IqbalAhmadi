@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="iqbahmadi" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [Iqbal's Portfolio](https://iqbalahmadi.github.io/iqbal-advanced-portfolio/)
+- 👨‍💻 All of my projects are available at [Iqbal's Portfolio](https://iqbal-ahmadi.netlify.app)
 
 - 💬 Ask me about **Full Stack Web Development**
 
