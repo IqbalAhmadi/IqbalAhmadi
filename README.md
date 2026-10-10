@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iqbal Ahmadi</h1>
+<h1 align="center">I'm Iqbal Ahmadi</h1>
 <h3 align="center">A passionate Full Stack Web Developer from California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="iqbahmadi" /> </p>
